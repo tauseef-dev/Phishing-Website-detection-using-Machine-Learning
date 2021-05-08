@@ -1,16 +1,18 @@
 # Phishing-Website-detection-using-Machine-Learning
 
-We have Build a chrome extension
+We have Build a chrome extension which can detect Phishing or Malecious website which user visits in chrome browser.
 
-Steps to install the chrome extension:
+This Extension is made as a MINI PROJECT for 3rd yr Engineering 
 
-Google Chrome -> More Tools -> Extensions
+*Steps to install the chrome extension:
 
-Click 'Load unpacked extension..'
+-Google Chrome -> More Tools -> Extensions
 
-Open the 'Engineering Module' directory
+-Click 'Load unpacked extension..'
 
-Phishing Detection extension ready to monitor all the sites loaded on the Chrome browser
+-Open the 'Engineering Module' directory
+
+-Phishing Detection extension ready to monitor all the sites loaded on the Chrome browser
 
 The Phishing Detection Chrome Extension aims to classify, every browsed URL, under phished and non-phished category(on page load). thereby, alerting the user of
 any malicious activity and prevent intrusion.
