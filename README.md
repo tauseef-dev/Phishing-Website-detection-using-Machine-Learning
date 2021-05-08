@@ -3,11 +3,13 @@
 We have Build a chrome extension
 
 Steps to install the chrome extension:
+
 Google Chrome -> More Tools -> Extensions
 Click 'Load unpacked extension..'
 Open the 'Engineering Module' directory
 Phishing Detection extension ready to monitor all the sites loaded on the Chrome browser
-The Phishing Detection Chrome Extension aims to classify, every browsed URL, under phished and non-phished category(on page load). thereby, alerting the user of any malicious activity and prevent intrusion.
+The Phishing Detection Chrome Extension aims to classify, every browsed URL, under phished and non-phished category(on page load). thereby, alerting the user of
+any malicious activity and prevent intrusion.
 
 1. manifest.json: It provides Chrome with the basic information about the extension like name, permissions, associated scripts and files.
 
