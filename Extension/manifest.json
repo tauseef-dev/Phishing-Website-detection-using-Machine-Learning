@@ -1,0 +1,26 @@
+{
+    "manifest_version":2,
+    "name":"Phalicious Shield",
+    "description": "Phishing and Malecious Website Detection.",
+    "version":"0.1",
+    "icons":{
+        "16":"iconr.png"
+    },
+    "background": {
+        "scripts": ["background.js"]
+   },
+   "browser_action": {
+    "default_icon": "iconr.png",
+    "default_popup": "Phishing.html"
+  },
+  "content_scripts": [
+      {
+        "matches": [
+          "<all_urls>"
+        ],
+        "js": ["jquery-3.1.1.min.js","content.js"]
+      }
+   ]
+   
+ 
+}
