@@ -58,3 +58,5 @@ The evaluated feature vector, further, passed to predict(data) function reckons 
 3. background.js: In case, we need access to external extensions or APIs, it is a requisite to create means of communication between the content.js and privileged parts of the our extension, and this interaction is termed as message passing. Message passing allows different components of our extension to collabrate.
 
 NOTE: The extension validates every URL call, i.e. in case of URL redirection, it will assess every intermittent URL hit as well.
+
+ABOUT US: https://phalicious-shield-aboutus.netlify.app/
