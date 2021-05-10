@@ -2,7 +2,7 @@
     "manifest_version":2,
     "name":"Phalicious Shield",
     "description": "Phishing and Malecious Website Detection.",
-    "version":"0.1",
+    "version":"1.0.0",
     "icons":{
         "16":"iconr.png"
     },
