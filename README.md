@@ -59,4 +59,8 @@ The evaluated feature vector, further, passed to predict(data) function reckons 
 
 NOTE: The extension validates every URL call, i.e. in case of URL redirection, it will assess every intermittent URL hit as well.
 
+Chrome WebStore Link: https://chrome.google.com/webstore/detail/phalicious-shield/ecgjimkbgeddefdiijcinpddnnedcnbb/related?hl=en-GB
+
 ABOUT US: https://phalicious-shield-aboutus.netlify.app/
+
+How To Use Video: https://www.youtube.com/watch?v=NQGRY5XFU-M&t=3s
